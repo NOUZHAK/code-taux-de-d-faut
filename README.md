@@ -1,14 +1,14 @@
 #  Modélisation du Risque de Crédit (PD) et du Taux de Remboursement Anticipé (CPR)
 Open in colabe:
-le script de taux de defaut: https://colab.research.google.com/drive/1CDLk-Moc8NuY2hpJvyTZTbLW8bWni4WL
+le script de taux de defaut: https://colab.research.google.com/drive/1CDLk-Moc8NuY2hpJvyTZTbLW8bWni4WL /n
 le script de taux de RPA : https://colab.research.google.com/drive/1dB4ZVuIGHZaPNoKQltYN7B7CJ33mETp6
 
 ## 📌 Présentation du Projet
-Ce dépôt rassemble les travaux de recherche, de traitement de données et de modélisation financière réalisés dans le cadre de mon **Projet de Fin d'Études (PFE)**. L'objectif principal est l'optimisation des modèles prédictifs appliqués à la gestion d'un fonds de titrisation, et plus particulièrement sur le compartiment **Invest Al Mouaddaf III**.
+Ce dépôt rassemble les travaux de recherche, de traitement de données et de modélisation financière réalisés dans le cadre de mon **Projet de Fin d'Études (PFE)**. L'objectif principal est l'optimisation des modèles prédictifs appliqués à la gestion d'un fonds de titrisation, et plus particulièrement sur le compartiment **des creances hypothecaires **.
 
 Le projet se divise en deux problématiques majeures de la gestion actif-passif (ALM) et du risque de crédit :
 1. **Modélisation de la Probabilité de Défaut (PD)** pour évaluer la qualité de crédit des contreparties.
-2. **Modélisation du Taux de Remboursement Anticipé (CPR / SMM)** pour anticiper les comportements de remboursement et sécuriser les flux financiers du portefeuille (Waterfall mechanism).
+2. **Modélisation du Taux de Remboursement Anticipé (RPA)** pour anticiper les comportements de remboursement et sécuriser les flux financiers du portefeuille (Waterfall mechanism).
 
 ---
 

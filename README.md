@@ -1,4 +1,6 @@
 # 📊 Modélisation du Risque de Crédit (PD) et du Taux de Remboursement Anticipé (CPR)
+https://colab.research.google.com/drive/1CDLk-Moc8NuY2hpJvyTZTbLW8bWni4WL
+https://colab.research.google.com/drive/1dB4ZVuIGHZaPNoKQltYN7B7CJ33mETp6
 
 ## 📌 Présentation du Projet
 Ce dépôt rassemble les travaux de recherche, de traitement de données et de modélisation financière réalisés dans le cadre de mon **Projet de Fin d'Études (PFE)**. L'objectif principal est l'optimisation des modèles prédictifs appliqués à la gestion d'un fonds de titrisation, et plus particulièrement sur le compartiment **Invest Al Mouaddaf III**.

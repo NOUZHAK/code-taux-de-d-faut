@@ -1,5 +1,5 @@
 #  Modélisation du Risque de Crédit (PD) et du Taux de Remboursement Anticipé (CPR)
-Open in colabe the scriot with the output :
+Open in colabe the script with the output :
 le script de taux de defaut: https://colab.research.google.com/drive/1CDLk-Moc8NuY2hpJvyTZTbLW8bWni4WL /n
 le script de taux de RPA : https://colab.research.google.com/drive/1dB4ZVuIGHZaPNoKQltYN7B7CJ33mETp6
 
